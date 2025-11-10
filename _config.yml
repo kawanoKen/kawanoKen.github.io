@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+title: 河野 健 | Tech Blog
+description: 自己紹介とテックブログを掲載します。
+lang: ja
+timezone: Asia/Tokyo
+author: 河野 健
+permalink: /blog/:year/:month/:day/:title/
