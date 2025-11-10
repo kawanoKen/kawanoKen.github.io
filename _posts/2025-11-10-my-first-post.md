@@ -1,5 +1,4 @@
----
-layout: post
+layout: default
 title: "はじめての投稿"
 date: 2025-11-10 09:00:00 +0900
 categories: [blog]
